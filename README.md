@@ -3,7 +3,7 @@
 <h3 align="center">Experienced web developer with a passion for creating visually stunning and user-friendly websites.</h3>
 <p align="center">Dedicated to delivering high-quality and innovative solutions that exceed client expectations.</p>
 
-<img align="right" alt="coding" width="400" src="[https://tse4.mm.bing.net/th?id=OIP.Q47FoFyeE0ZNIDFxygJriAAAAA&pid=Api&P=0&h=220](https://instagram.fnag1-2.fna.fbcdn.net/v/t51.2885-19/447623425_7600318090064073_4799396299014529648_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fnag1-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=HY2KCUCbxV0Q7kNvgE0Ltj1&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYCu3uwEPsX6PpUXEQ1H8I5T6Sjc6VNosdcHzXDz-NtRrg&oe=6668F5A5&_nc_sid=8b3546)" /> </p>
+<img align="right" alt="coding" width="400" src="https://instagram.fnag1-2.fna.fbcdn.net/v/t51.2885-19/447623425_7600318090064073_4799396299014529648_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fnag1-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=HY2KCUCbxV0Q7kNvgE0Ltj1&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYCu3uwEPsX6PpUXEQ1H8I5T6Sjc6VNosdcHzXDz-NtRrg&oe=6668F5A5&_nc_sid=8b3546" /> </p>
 
 - 🔭 I’m currently working on [Scan The Menu Project](https://scan-the-menu-model-1.vercel.app/)
 
