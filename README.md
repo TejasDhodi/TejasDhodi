@@ -5,9 +5,9 @@
 
 <img align="right" alt="coding" width="400" src="https://instagram.fnag1-2.fna.fbcdn.net/v/t51.2885-19/447623425_7600318090064073_4799396299014529648_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fnag1-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=HY2KCUCbxV0Q7kNvgE0Ltj1&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYCu3uwEPsX6PpUXEQ1H8I5T6Sjc6VNosdcHzXDz-NtRrg&oe=6668F5A5&_nc_sid=8b3546" /> </p>
 
-- 🔭 I’m currently working on [Scan The Menu Project](https://scan-the-menu-model-1.vercel.app/)
+- 🔭 I’m currently working on [UTS Clone](https://github.com/TejasDhodi/React-Native-Projects/tree/d1a5603ad7bd12d75ce2a6bf04c8d1ad4ca795a9/UTS_REACT_NATIVE)
 
-- 🌱 I’m currently Mastering **Java Script**
+- 🌱 I’m Currently Learnig **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TejasDhodi](https://github.com/TejasDhodi).
 
@@ -26,6 +26,7 @@
 <p>✅ HTML</p>
 <p>✅ CSS</p>
 <p>✅ JavaScript</p>
+<p>✅ TypeScript</p>
 <p>✅ React.js</p>
 <p>✅ Redux</p>
 <p>✅ Node.js</p>
